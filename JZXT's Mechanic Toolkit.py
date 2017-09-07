@@ -1,6 +1,6 @@
 def print_menu():
-    print 30 * "-" , "JZXT's Mechanic's Toolkit" , 30 * "-"
-    print "1. KW to HP Conversion"
+    print (30 * "-" , "JZXT's Mechanic's Toolkit" , 30 * "-")
+    print ("1. KW to HP Conversion") # add brackets
     print "2. HP to KW Conversion"
     print "3. Feature Not Available"
     print "4. Feature Not Available"
